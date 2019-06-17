@@ -13,7 +13,7 @@ function maxChar(str) {
 	str = str.split("");
 
 	return str.sort((a,b) => 
-		str.filter(v => v===a).lenghth - str.filter(v => v===b).length
+		str.filter(v => v===a).length - str.filter(v => v===b).length
 	).pop();
 
 }
