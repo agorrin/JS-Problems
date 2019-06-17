@@ -22,4 +22,3 @@ function longestWord(sen) {
 	return newArr[0];
 }
 
-module.exports = longestWord;

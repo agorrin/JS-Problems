@@ -20,4 +20,3 @@ function capitalize(str) {
   	return str.join(" ")
 }
 
-module.exports = capitalize;

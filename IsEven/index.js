@@ -17,5 +17,3 @@ function isEven(n) {
 		return false
 	}
 }
-
-module.exports = isEven;

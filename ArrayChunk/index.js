@@ -20,4 +20,3 @@ function chunk(array, size) {
 	return newArr;
 }
 
-module.exports = chunk;
